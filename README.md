@@ -128,7 +128,7 @@ int main(){
 ```
 
 -   `!=`
-    Check if 2 colleges are not equal
+    Check if 2 vectors are not equal
 
 ```c++
 #include <veck.hpp>
